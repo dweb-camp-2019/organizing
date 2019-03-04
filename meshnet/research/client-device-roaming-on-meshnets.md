@@ -30,7 +30,9 @@ Client Device Roaming on Meshnets
 ### Chat logs
 
 Feb 19, 2019
->14:19 < benhylau[m]> Do you know if Babel can handle roaming? I found a really old thread with juul (people's open) on it. Maybe ttk2 knows about roaming on Babel networks?
+
+```
+14:19 < benhylau[m]> Do you know if Babel can handle roaming? I found a really old thread with juul (people's open) on it. Maybe ttk2 knows about roaming on Babel networks?
 14:23 < DarkDrgn2k[m]> only Layer 2 can roam
 14:23 < DarkDrgn2k[m]> cause its not even a ACCESS POINT thing
 14:23 < DarkDrgn2k[m]> its a CLIENT thing
@@ -208,6 +210,7 @@ Feb 19, 2019
 16:34  * DarkDrgn2k[m] uploaded an image: image.png (64KB) < https://matrix.org/_matrix/media/v1/download/tomesh.net/UwbrAZTunKFZoUyiezAbbJgp >
 16:37 < DarkDrgn2k[m]> hmm guess i should add that exit node router on the rest of the drawings to make it more symetrical
 16:43  * DarkDrgn2k[m] uploaded an image: image.png (59KB) < https://matrix.org/_matrix/media/v1/download/tomesh.net/TwzIPedSvDppyVtnDZWkboSx >
+```
 
 ## Resources
 
