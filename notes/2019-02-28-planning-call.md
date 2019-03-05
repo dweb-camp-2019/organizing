@@ -16,7 +16,7 @@ DWeb Camp Planning Call
 - Discuss Mushroom Farm space use in relation to meshnet
     - Key areas of connectivity on a map
     - Elevated features with electricity for mounting equipment
-    - Bandwidth and [roaming requirements](https://hackmd.io/s/ByQEKcjSE) of the local network
+    - Bandwidth and [roaming requirements](https://github.com/dweb-camp-2019/organizing/blob/master/meshnet/research/client-device-roaming-on-meshnets.md) of the local network
 - Processes for community involvement
     - Building the meshnet
     - Setting up local services
@@ -156,16 +156,9 @@ DWeb Camp Planning Call
 
 - [ ] Ben to send budget + equipment list
 - [ ] Jonah to send draft map
-- [x] Wendy to connect Ben with Stochastic Lab
 - [ ] Wendy to start reading Chaos Computer Camp documentation
-- [x] Wendy to send calendar invite for Thursday, Feb 28 3PM PM PST
-- [x] Have Caitlin invite Ben to our Slack***
 - [ ] Jonah & Wendy will join Patchwork
 - [ ] Wendy to create Google Doc in IA Drive for retention
-- [x] Ben to set up document process for DWebCamp 2019
-    - [x] Make GitHub org dweb-camp-2019
-    - [x] Move meeting notes to org
-    - [x] Start Project board
 - [ ] Ben: Send parts list for Prototype
 - [ ] Jonah: Check local provider for MicroTik
 - [ ] Wendy: Get solid dates for April meeting (April 1-7th)--Jonah out March 29-April 3, Ben availabile March 29-April 10
