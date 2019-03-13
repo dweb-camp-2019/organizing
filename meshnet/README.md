@@ -24,7 +24,7 @@ This document is the proposal to build a local mesh network with the following g
 
 The diagram above is the area map, with preliminary positions of _mesh nodes_ that together form the local mesh network.
 Each node has a 100 m radius circle around it, representing the region where client devices are expected to form a good connection with the node's access point.
-There is a larger 150 m radiu circle around where devices may be able to connect. The green dotted lines represent point-to-point links between nodes that together form the local mesh network.
+There is a larger 150 m radius circle around where devices may be able to connect. The green dotted lines represent point-to-point links between nodes that together form the local mesh network.
 
 Each node is an aggregate of multiple pieces of equipment, which may include:
 
@@ -38,13 +38,16 @@ One or more nodes will also serve as the Internet gateway for this local network
 
 ### Radio for directional link
 
-Each green dotted line will be formed a pair of [MikroTik SXTsq 5 ac](https://mikrotik.com/product/sxtsq_5_ac), [used in NYC Mesh](https://docs.nycmesh.net/hardware/sxtsqg5acd/), supporting link speeds at 800+ Mbps. Where possible, we can also link two nodes with a long ethernet cable.
+Each green dotted line represents a directional link formed by a pair of [MikroTik SXTsq 5 ac](https://mikrotik.com/product/sxtsq_5_ac), [used in NYC Mesh](https://docs.nycmesh.net/hardware/sxtsqg5acd/), supporting link speeds at 800+ Mbps.
+These devices will run stock firmware.
+Where possible, we can also link two nodes with a long ethernet cable.
 
 One alternative option is the 60 GHz [MikroTik Wireless Wire](https://mikrotik.com/product/wireless_wire) or [MikroTik Wireless Wire Dish](https://mikrotik.com/product/wireless_wire_dish), but we will start with the SXTsq 5 ac devices at lower costs.
 
 ### Radio for access point
 
 Omnidirectional access points are what client devices will connect to, we will use a [MikroTik OmniTIK 5 PoE ac](https://mikrotik.com/product/rbomnitikpg_5hacd), [used in NYC Mesh](https://docs.nycmesh.net/hardware/mikrotikomnitik5ac/), as the standard device to connect 50+ clients at a time and deliver 800+ Mbps aggregate speeds.
+These devices will run stock firmware.
 
 An alternative device we can use as access point is the [MikroTik mANTBox 15s](https://mikrotik.com/product/RB921GS-5HPacD-15S) sector, in areas where only one side of the mount point needs service.
 
