@@ -1,10 +1,9 @@
 # FAQs 
 _From emailed responses_
 
-
 **Q:  Will it be kid friendly?**
 
-**A:**  Yes! Children under the age of 10 can come for free.  We will have a family camping area, where you can pitch your tent away from the music and late night gatherings. We will also have a family area with activities that young kids can enjoy--hands on creativity.
+A:  Yes! Children under the age of 10 can come for free.  We will have a family camping area, where you can pitch your tent away from the music and late night gatherings. We will also have a family area with activities that young kids can enjoy--hands on creativity.
 
 Many of the activities will also appeal to all ages: from harvesting food for our meals, hiking up the local stream, going to the beach, to live music jams and yoga.
 
@@ -19,7 +18,7 @@ The rooms at the nearby Pigeon Point Youth Hostel are already booked up, but you
 I think your best bet is to rent an RV in San Francisco (there is also an Air B-n-B for RVs..)  
 We will have spaces for RVs for a nominal RV parking charge.  Prices range from $100/night to $300+ for RVs that sleep 6. 
 
-**Q:  I want to attend myself, plus encourage 5 of my coworkers/friends to join. We all work to decentralize the internet. I'm curious about the events, as we may want to have some events ourselves while there. **
+**Q:  I want to attend myself, plus encourage 5 of my coworkers/friends to join. We all work to decentralize the internet. I'm curious about the events, as we may want to have some events ourselves while there.**
 
 A:  We encourage radical sharing:  bring your talents, workshops, musical instruments, hacking projects--but let us know what you have in mind so we can help get you situated. 
 
@@ -30,12 +29,14 @@ _NOTE: I would encourage you to register quickly once we open registration in ea
 A:  I'm not sure. It's on a farm and ranch that is private land, so the terrain is variable.  It is not quite like a mini-Burning man--we will be near power and facilities--but living in tents in fields, eating in green houses, hiking to the beach.  We will check with the venue and try to make it as accessible as possible.
 
 **Q:  How can I be involved?**
-You can come help us build, run, and strike the camp from July 15-22nd.  That could be anything from erecting the Domes to painting signs to decorating former mushroom growing rooms.  It will be a time for a smaller group to bond and build community.
+
+A:  You can come help us build, run, and strike the camp from July 15-22nd.  That could be anything from erecting the Domes to painting signs to decorating former mushroom growing rooms.  It will be a time for a smaller group to bond and build community.
+
 You could bring your talents and ideas and workshops.  This will be much more crowd-sourced content than the Summit.  
 In an "un-conference" format, you could lead the kind of cross-sector talks that get to the heart of the matter.
 At the most time-intensive level, you could become a coordinator of some aspect of the camp--from running a creative track to booking lightning talks.
-**Q:  What are some ways of furthering more "peer discovery" to initiate important and challenging conversations?  Maybe some of this has to do with the "ideological topology" of scheduling and layout?**
 
+**Q:  What are some ways of furthering more "peer discovery" to initiate important and challenging conversations?  Maybe some of this has to do with the "ideological topology" of scheduling and layout?**
 
 A:  This is our true goal.  To help participants connect internally with the values that drive their work; to connect with each other in new and surprising ways, and to connect with the environment.  So we'd love to have your input and help in creating the right “topology” or "containers" to enable that to happen.
 
@@ -53,7 +54,6 @@ You could rent a room at the nearby Costanoa Lodge, which also has luxury glampi
 
 You can rent an RV (there is an Air B-n-B for RVs that can be pretty affordable.)
 We will have spaces for RVs for a nominal RV parking charge.
-
 
 **Q:  Would this camp be something useful for someone pretty new to decentralized apps?  (and would I be useful?)**
 
