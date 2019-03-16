@@ -64,3 +64,12 @@ We will have spaces for RVs for a nominal RV parking charge.
 A:  Yes! We believe this event will be exciting, enlightening and maybe even transformational for coders of all abilities, as well as creatives, legal & policy folks, and anyone deeply engaged in creating the Web we want and deserve.  We are inviting those from around the world who truly need internet and Web-based services in places where there is no, low or censosred internet.  Places where the Decentralized Web would be extremely useful today.
 
 My holy grail: in 2016, a woman who was just graduating from coding school told us she found her future employer, life partner and best friends at our Decentralized Web Summit.  We want to open doors and create new paths that don’t exist today so the Decentralized Web will be a wide tent, where everyone can see a way to contribute.
+
+**Q: Will this replace the Decentralized Web Summit?**
+
+A:  This year, DWeb Camp will replace the Decentralized Web Summit (https://decentralizedweb.net/) that we held in 2016 and 2018.  Moving forward, I think we will evaluate, listen to the community, and make a decision.  Should it:
+  --permanently replace the Decentralized Web Summit
+  --alternate years with the Decentralized Web Summit
+  --be in addition to the Decentralized Web Summit
+  
+  We'll see how this first year goes and ask for your feedback in late July.
