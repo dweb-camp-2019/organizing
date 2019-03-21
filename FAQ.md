@@ -73,3 +73,13 @@ A:  This year, DWeb Camp will replace the Decentralized Web Summit (https://dece
   --be in addition to the Decentralized Web Summit
   
   We'll see how this first year goes and ask for your feedback in late July.
+
+**Q: Why are you planning on GitHub instead of Google Docs? This is not very accessible.**
+
+A:  As organizers of events with shared visions of a Decentralized Web, we are also reflecting on the [tools](https://github.com/dweb-camp-2019/organizing/issues/7) we use to organize and collaborate.
+
+Git is a distributed version control system that allows the history of a content "repository" to be stored in everyone's computer, and be worked on offline with processes to merge "patches" back together, or be "forked" into new repositories that take on a lives on their own.
+
+Google Docs is built on different philosophies of collaboration and requires a connection to the Internet and a Google account, does not have versions readily backed up on our own computers and does not allow for this "fork & merge" process commonly used in open source communities. It does have familiar user interfaces and integration with some other platforms.
+
+GitHub is a platform that builds tools and a social network on top of Git. Its user interface has become how many people are introduced to Git and its workflow. Clearly, there is still a big usability gap for someone familiar with Google Docs and new to Git, and it should be up to the specific working group to choose how they like to collaborate. This year, the Planning Committee is using both platforms to coordinate various aspects of the Camp.
