@@ -1,6 +1,8 @@
 DWeb Camp 2019 Organizing
 =========================
 
+![the-farm](images/the-farm.jpg?raw=true)
+
 >How do we build a better Web? The Web we want, the Web we deserve? A Web with no central points of control?
 
 Since 2016, we’ve been calling this the _Decentralized Web_ (DWeb for short) and now the Internet Archive is inviting everyone who wants to imagine and co-create that better Web to join us this summer at one of the most beautiful spots on Earth.
