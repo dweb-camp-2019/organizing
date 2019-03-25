@@ -23,19 +23,19 @@ If you prefer other ways to contact us, you can also fill this [Google Form](htt
 
 | Event     |                                                               |
 |:----------|:--------------------------------------------------------------|
-| Jul 21-22 | Clean-up                                                      |
-| Jul 18-21 | **Camp days**                                                 |
-| Jul 15-17 | Build-out of temporary structures and meshnet extension nodes |
+| Jul 21-22 | Volunteer camp take-down                                      |
+| Jul 18-21 | **DWeb Camp**                                                 |
+| Jul 15-17 | Volunteer build-out of structures and meshnet                 |
 
-| Milestones |                                                                        |
-|:-----------|:-----------------------------------------------------------------------|
-| Jul 8      | Meshnet core nodes and Internet connectivity in place                  |
-| Jul 1      | power infrastructure in place                                          |
-| Jun 8      | Communication infrastructure test at _The Farm_                        |
-| May 2-3    | Programming meetings                                                   |
-| Apr 28     | _The Farm_ site visit                                                  |
-| Apr 15     | Website with Camp details published that includes RFP and ticket sales |
-| Apr 3-5    | Kick-off meetings at the Internet Archive                              |
-| Mar 31     | _The Farm_ site visit                                                  |
-| Mar 25     | Preliminary Camp details published to Organizing repository on GitHub  |
-| Mar 8      | _Save the Date_ sent to Decentralized Web mailing list                 |
+| Milestones |                                                                               |
+|:-----------|:------------------------------------------------------------------------------|
+| Jul 8      | Meshnet core nodes and Internet connectivity in place                         |
+| Jul 1      | power infrastructure in place                                                 |
+| Jun 8      | Communication infrastructure test at _The Farm_                               |
+| May 2-3    | Programming meetings                                                          |
+| Apr 28     | _The Farm_ site visit                                                         |
+| Apr 15     | Website with Camp details published that includes RFP and ticket sales        |
+| Apr 3-5    | Kick-off meetings at the Internet Archive                                     |
+| Mar 31     | _The Farm_ overnight site visit                                               |
+| Mar 25     | Camp announcement on Archive blog and preliminary details published to GitHub |
+| Mar 8      | _Save the Date_ sent to Decentralized Web mailing list                        |
