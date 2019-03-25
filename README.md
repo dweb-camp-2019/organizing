@@ -7,6 +7,18 @@ Since 2016, we’ve been calling this the _Decentralized Web_ (DWeb for short) a
 
 This is the repository for the organizing of **DWeb Camp** from **July 18-21, 2019**. Please see our [event announcement on the Internet Archive blog](https://blog.archive.org/2019/03/24/coming-this-summer-the-first-dweb-camp/) for details.
 
+## Get Involved
+
+Internet Archive wants to invite you to co-organize DWeb Camp together as a community-built event! Please visit the following GitHub repositories and chat rooms to share your ideas.
+
+|                   | :spiral_notepad: GitHub | :speech_balloon: Matrix | :speech_balloon: IRC |
+|:------------------|:------------------------|:------------------------|:---------------------|
+| :camping: General | [dweb-camp-2019/organizing](https://github.com/dweb-camp-2019/organizing) | [#decentralizedweb-general:matrix.org](https://riot.im/app/#/room/#decentralizedweb-general:matrix.org) | |
+| :satellite: Meshnet | [dweb-camp-2019/meshnet](https://github.com/dweb-camp-2019/meshnet) | [#dweb-camp-2019-mesh:matrix.org](https://riot.im/app/#/room/#dweb-camp-2019-mesh:matrix.org) | `freenode/#dweb-camp-2019-mesh` |
+| :computer: Applications | [dweb-camp-2019/applications](https://github.com/dweb-camp-2019/applications) | [#dweb-camp-2019-apps:matrix.org](https://riot.im/app/#/room/#dweb-camp-2019-apps:matrix.org) | `freenode/#dweb-camp-2019-apps` |
+
+If you prefer other ways to contact us, you can also fill this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSe4gYQH6dBjTntt0IAgEh0z3tHKnfufHbBanf-SoDpnB73b5w/viewform) or email `dwebcamp [at] archive.org`.
+
 ## Timeline
 
 | Event     |                                                               |
@@ -27,13 +39,3 @@ This is the repository for the organizing of **DWeb Camp** from **July 18-21, 20
 | Mar 31     | _The Farm_ site visit                                                  |
 | Mar 25     | Preliminary Camp details published to Organizing repository on GitHub  |
 | Mar 8      | _Save the Date_ sent to Decentralized Web mailing list                 |
-
-## Chats
-
-:speech_balloon: <sup>matrix</sup> [#decentralizedweb-general:matrix.org](https://riot.im/app/#/room/#decentralizedweb-general:matrix.org)
-
-:satellite: <sup>matrix</sup> [#dweb-camp-2019-mesh:matrix.org](https://riot.im/app/#/room/#dweb-camp-2019-mesh:matrix.org) :wavy_dash: <sup>irc</sup> freenode/#dweb-camp-2019-mesh
-
-:computer: <sup>matrix</sup> [#dweb-camp-2019-apps:matrix.org](https://riot.im/app/#/room/#dweb-camp-2019-apps:matrix.org) :wavy_dash: <sup>irc</sup> freenode/#dweb-camp-2019-apps
-
-:spiral_notepad: <sup>ssb</sup> `%U0yaW77RYo2HOY7cvkjjEO0WgWiJX4nacME2M17BGOI=.sha256`
