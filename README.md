@@ -7,11 +7,16 @@ DWeb Camp 2019 Organizing
 
 Since 2016, we’ve been calling this the _Decentralized Web_ (DWeb for short) and now the Internet Archive is inviting everyone who wants to imagine and co-create that better Web to join us this summer at one of the most beautiful spots on Earth.
 
-This is the repository for the organizing of **DWeb Camp** from **July 18-21, 2019**. Please see our [event announcement on the Internet Archive blog](https://blog.archive.org/2019/03/24/coming-this-summer-the-first-dweb-camp/) for details.
+This is the repository for the organizing of **DWeb Camp** from **July 18-21, 2019**.
+Please see our [event announcement on the Internet Archive blog](https://blog.archive.org/2019/03/24/coming-this-summer-the-first-dweb-camp/) and [FAQ](FAQ.md) for details.
 
 ## Get Involved
 
-Internet Archive wants to invite you to co-organize DWeb Camp together as a community-built event! Please visit the following GitHub repositories and chat rooms to share your ideas.
+The Internet Archive wants to invite you to co-organize DWeb Camp together!
+There are many ways to help build DWeb Camp depending on how much you'd like to get involved.
+The key roles necessary to pull this event together are listed on our [Organizing Team](TEAM.md) page, please write to `dwebcamp [at] archive.org` if you'd like to inquire about one of these positions.
+
+If you are as excited about Camp as we are and want to share ideas or start discussions, visit the following GitHub repositories and chat rooms, where you are invited to post Issues, send Pull Requests, and start collaborating with peers for potential projects.
 
 |                   | :spiral_notepad: GitHub | :speech_balloon: Matrix | :speech_balloon: IRC |
 |:------------------|:------------------------|:------------------------|:---------------------|
