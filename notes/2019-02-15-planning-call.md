@@ -22,7 +22,7 @@ DWeb Camp Planning Call
     * Self-deployable network building for offline-first communities is his main personal focus
     * His strengths:  existing community network globally is strong; for instance, in Athens he is working with a group hesitant to use multinational corp services; how can we bring these groups around the world together?
     * How do you bring the groups who need the tech together with the technologists?
-    * Living in Mushroom Farm will force us to try out our own theories
+    * Living in The Farm will force us to try out our own theories
     * IMPORTANT GROUPS:
         * SSB
         * Libre Router -- Nico Pace
@@ -30,10 +30,10 @@ DWeb Camp Planning Call
         * [netCommons](https://netcommons.eu) viewed on [IA Archive](https://web.archive.org/web/20190211081426/https://www.netcommons.eu/) 
     * Mitra (from IA) interested in this sort of async connectivities
     * Ben is Canadian -- check on payment
-- DWeb Camp updates
+- DWeb Camp updates:
     * Jonah is taking on new roles at IA so can't be as hands on; doing build out for core aspects of infrastructure
         * Build out core infrastructure components for local access and Internet bandwidth
-    * Mushroom Farm: Matt & Joshua
+    * The Farm: Matt & Joshua
     * Need to know the map -- how big is the space?
     * Ben to draft:
         * Budget for mesh equipment and deployment (to cover site and connect with uplink)
@@ -44,7 +44,7 @@ DWeb Camp Planning Call
     * Commitment in March
     * In person meeting in April 7 in SF
     * Mindy + Sam for art space (stipend + housing for artists)
-- Discuss Mushroom Farm plans
+- Discuss The Farm plans
     * Network uplinks:
         * Existing wireless link to Carmel
         * Possible 2nd link on same

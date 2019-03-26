@@ -11,9 +11,9 @@ DWeb Camp Planning Call
 
 ## Agenda
 
-- IA to update on Mushroom Farm status
+- IA to update on The Farm status
 - Review standing tickets on GitHub
-- Discuss Mushroom Farm space use in relation to meshnet
+- Discuss The Farm space use in relation to meshnet
     - Key areas of connectivity on a map
     - Elevated features with electricity for mounting equipment
     - Bandwidth and [roaming requirements](https://github.com/dweb-camp-2019/organizing/blob/master/meshnet/research/client-device-roaming-on-meshnets.md) of the local network
@@ -50,12 +50,12 @@ DWeb Camp Planning Call
 
 ## Meeting Notes
 
-### IA to update on Mushroom Farm status
+### IA to update on The Farm status
 
 - Venue is SOLID! July 15-17 + 18-21 + 22-23 (clean-up)
 - Wendy to visit venue March 7-8 to discuss details
 - 1h from SFO or 40 minutes from San Jose
-- The Mushroom Farm provides (included in Price Quote):
+- The The Farm provides (included in Price Quote):
     - Access to all existing facilities & equipment
     - Adequate parking w/ team lead
     - Catering: Tuesday - Monday (total meal TBD)
@@ -70,8 +70,8 @@ DWeb Camp Planning Call
     - Mapping, Planing, Experience Design
     - Use of Existing Heavy Equipment
     - Fire Plan
-    - Mushroom Farm related content: Farm-Adventure tours, permaculture education, mushroom inoculation, renewable energy workshops, etc.
-- Services the Mushroom Farm can cover at cost:
+    - The Farm related content: Farm-Adventure tours, permaculture education, mushroom inoculation, renewable energy workshops, etc.
+- Services the The Farm can cover at cost:
     - Waste Management
     - Off-Grid Water Systems
     - Sanitation (toilets)
@@ -89,15 +89,15 @@ DWeb Camp Planning Call
     - Additional Art & Decoration as desired
     - Transportation to/from SF and Airports
     - Additional VIP Guest Hospitality   
-- Deciding which areas to use within the Mushroom Farm property:
-    - "Mushroom Farm" (with some facilities)
+- Deciding which areas to use within the The Farm property:
+    - "The Farm" (with some facilities)
     - "The Ranch" (lakeside, airstrip, higher-up spaces)
 
 ### Review standing tickets on GitHub
 
 - [Project board](https://github.com/dweb-camp-2019/organizing/projects/1)
 
-### Discuss Mushroom Farm space use in relation to meshnet
+### Discuss The Farm space use in relation to meshnet
 
 - Internet connectivity:
     - Current uplink via Mimosa devices to Carmel
