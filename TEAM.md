@@ -24,7 +24,7 @@ Organizing Team
 | Lead Facilitator/Group Facilitation | TBD | |
 | DJ | TBD | |
 | EMT/Nurse (2) | TBD | |
-| Photographer | TBD | |
+| Photographer | Brad Shirakawa | |
 | Video Production/Editing | TBD | |
 | Family Activities Coordinator | Volunteer needed | |
 | Welcome & Hospitality Team Lead | Volunteer needed | |
