@@ -11,15 +11,16 @@ Organizing Team
 | Finance & bookkeeping | Jacques Cressaty | |
 | Logo Design | Iryna Nezhynska | |
 | Signage & Fabrication Lead | Amir Esfahani | |
-| Graphic Design | TBD | |
+| Graphic Design | PE Area (Lexi Visco/ Calvin Roccio) | |
 | Website Developer | TBD | |
+| Video/Live Streaming | Ryan Taylor | |
 | Volunteer Director | TBD | |
 | Safety Director | TBD | |
 | Logistics/Event Producer | TBD | |
 | Registration Coordinator | TBD | |
 | Production Assistant | TBD | |
 | Writer/Marketing Contractor | TBD | |
-| Creative Coordinator | TBD | |
+| Creative Coordinator | Andi Wong | |
 | Lead Facilitator/Group Facilitation | TBD | |
 | DJ | TBD | |
 | EMT/Nurse (2) | TBD | |
