@@ -16,7 +16,7 @@ Organizing Team
 | Video/Live Streaming | Ryan Taylor | |
 | Volunteer Director | Brady Gill/Joanna Nastos | |
 | Safety Director | TBD | |
-| Logistics/Event Producer | Ben Hannan/Joanna Nastos | |
+| Logistics/Event Producer | Ben Hanna/Joanna Nastos | |
 | Registration Coordinator | TBD | |
 | Production Assistant | TBD | |
 | Writer/Marketing Contractor | TBD | |
