@@ -14,9 +14,9 @@ Organizing Team
 | Graphic Design | PE Area (Lexi Visco/ Calvin Roccio) | |
 | Website Developer | TBD | |
 | Video/Live Streaming | Ryan Taylor | |
-| Volunteer Director | TBD | |
+| Volunteer Director | Brady Gill/Joanna Nastos | |
 | Safety Director | TBD | |
-| Logistics/Event Producer | TBD | |
+| Logistics/Event Producer | Ben Hannan/Joanna Nastos | |
 | Registration Coordinator | TBD | |
 | Production Assistant | TBD | |
 | Writer/Marketing Contractor | TBD | |
