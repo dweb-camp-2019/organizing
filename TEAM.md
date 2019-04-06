@@ -7,20 +7,21 @@ Organizing Team
 | Connectivity Coordinator | Jonah Edwards | |
 | Network Coordinator | Benedict Lau | b [at] deprecated.systems |
 | Communication & Marketing | Wendy Hanamura | |
-| Program Design Team | Joachim Lohkamp, Wendy Hanamura, Benedict Lau | |
+| Program Design Team | Joachim Lohkamp, Wendy Hanamura, Benedict Lau, Andi Wong, Pamela Pascual | |
 | Finance & bookkeeping | Jacques Cressaty | |
-| Logo Design | Iryna Nezhynska | |
+| DWeb Logo Design | Iryna Nezhynska | |
 | Signage & Fabrication Lead | Amir Esfahani | |
-| Graphic Design | PE Area (Lexi Visco/ Calvin Roccio) | |
+| DWeb Camp Graphic Design | PE Area (Lexi Visco/ Calvin Roccio) | |
 | Website Developer | TBD | |
 | Video/Live Streaming | Ryan Taylor | |
 | Volunteer Director | Brady Gill/Joanna Nastos | |
-| Safety Director | TBD | |
+| Safety Director | Matt Siegel | |
 | Logistics/Event Producer | Ben Hanna/Joanna Nastos | |
-| Registration Coordinator | TBD | |
+| Registration Coordinator | Joanna Nastos | |
 | Production Assistant | TBD | |
 | Writer/Marketing Contractor | TBD | |
-| Creative Coordinator | Andi Wong | |
+| Creative Coordinators | Andi Wong & Pamela Pascual | |
+| Global Fellows & Travel Stipend Coordinator | Volunteer needed | |
 | Lead Facilitator/Group Facilitation | TBD | |
 | DJ | TBD | |
 | EMT/Nurse (2) | TBD | |
@@ -31,6 +32,5 @@ Organizing Team
 | Stage Manager Lead | Volunteer needed | |
 | Parking Lead | Volunteer needed | |
 | Social Media/Photo Assistant | Volunteer needed | |
-| Travel Coordinator | Volunteer needed | |
 | Go-fer during Build | Volunteer needed | |
 | Lifeguard | Volunteer needed | |
