@@ -126,7 +126,7 @@ connect mind with...
     - http://collabcafewelly.tumblr.com/
     - something like : http://www.theworldcafe.com/key-concepts-resources/world-cafe-method/
 
-## Questions to revist:
+## Questions to Revist
 
 - Co-creation
   - yes, and what structures do we put in place to guide the co-creation to be more transformative/ challenging (and not just more dominant culture)
