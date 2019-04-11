@@ -7,30 +7,30 @@ The first week of April was DWeb Camp kick-off week for organizers, starting off
 
 On Sunday, eight of us arrived to The Farm on a beautiful day, most of us visiting for the first time, and got a tour around the site where DWeb Camp 2019 will be held.
 
-![farm-office](images/farm-office?raw=true)
+![farm-office](images/farm-office.jpg?raw=true)
 
 The coastal camp site is really beautiful and there are lots of interesting projects going on, from agriculture to energy projects, which may end up powering much of DWeb Camp.
 
-![farm-power](images/farm-power?raw=true)
+![farm-power](images/farm-power.jpg?raw=true)
 
 We spent half an hour walking around, discovering many areas connected by walking paths.
 Immediately we started imagining the possibilities for this huge patch of lawn surrounded by giant structures and a junkyard full of different materials.
 
-![farm-lawn](images/farm-lawn?raw=true)
+![farm-lawn](images/farm-lawn.jpg?raw=true)
 
-![farm-junkyard](images/farm-junkyard?raw=true)
+![farm-junkyard](images/farm-junkyard.jpg?raw=true)
 
 There were also facilities such as the Tea Lounge and a couple other large indoor and outdoor spaces.
 
-![farm-lounge](images/farm-lounge?raw=true)
+![farm-lounge](images/farm-lounge.jpg?raw=true)
 
-![farm-workshop](images/farm-workshop?raw=true)
+![farm-workshop](images/farm-workshop.jpg?raw=true)
 
 Three of us decided to stay in one of the tents, which will be available for rent at DWeb Camp.
 They can comfortably fit 4 people with plenty of extra space.
 The campgrounds are scattered throughout the site, which presents a challenge to distribute news across the entire event space, but also makes for an exciting opportunity for groups to connect themselves to the local meshnet using wireless radios.
 
-![farm-tent](images/farm-tent?raw=true)
+![farm-tent](images/farm-tent.jpg?raw=true)
 
 We discussed processes for information distribution, favouring low-tech processes in case our digital tools break down.
 For example, a teams of volunteers going around to write schedule updates on large blackboards!
@@ -38,7 +38,7 @@ Or other offline processes like USB dead drops loaded with pre-built binaries of
 
 Our group, along with Farm staff, spent many hours discussing our learnings from previous event organizings from [Burning Man](https://burningman.org) to [ScuttleCamp](https://one.camp.scuttlebutt.nz), logistical things like space use and power distribution, and most importantly the culture of the place and the common visions that DWeb Camp shares.
 
-![farm-agreements](images/farm-agreements?raw=true)
+![farm-agreements](images/farm-agreements.jpg?raw=true)
 
 After spending lots of time with the friendly staff at The Farm, sharing stories around the bonfire after delicious meals prepared by our hospitable hosts, we were inspired to imagine a DWeb Camp that not only connects people and protocols, but also to nature and our shared roots.
 Having the privilege to hold DWeb Camp on such beautiful natural land, it's an excellent opportunity to start from our shared roots, with the basics we need to survive, make inclusive spaces to connect with one another to explore the role of technology and the purpose of decentralization. How, for whom, and on what soil, do we build our Decentralized Web?
@@ -47,17 +47,17 @@ Having the privilege to hold DWeb Camp on such beautiful natural land, it's an e
 
 After taking a day off to reflect on our site visit, the core organizers gathered at the Internet Archive on Wednesday to start 3 days of meetings, where we'd share our personal visions for DWeb Camp 2019, draft first principles, our inclusion & diversity plans, ticket sales & support policies, project proposal processes, meanwhile arranging consultation and partnership calls to get more diverse feedback on our plans.
 
-![internet-archive](images/internet-archive?raw=true)
+![internet-archive](images/internet-archive.jpg?raw=true)
 
 The first session began with Wendy leading a collaborative value alignment exercise, where we surfaced personal feelings about how we want DWeb Camp 2019 to be.
 
-![feelings-negative](images/feelings-negative?raw=true)
+![feelings-negative](images/feelings-negative.jpg?raw=true)
 
-![feelings-positive](images/feelings-positive?raw=true)
+![feelings-positive](images/feelings-positive.jpg?raw=true)
 
 After grouping related feelings and sharing thoughts, we wrote potential candidates for first principles, grouped and voted for them, then co-drafted our long-form of our first principles.
 
-![first-principles](images/first-principles?raw=true)
+![first-principles](images/first-principles.jpg?raw=true)
 
 As you can see from the snapshots, there were high overlaps among organizers throughout this process.
 Here I will share some of the discussion points that came up, some of which are related to parallel research and external consultations that individual organizers are involved in.
@@ -98,11 +98,11 @@ These only capture part of the discussions that led to the drafting and outcomes
 
 We went through a similar collaborative session to surface our thoughts on the project proposal process.
 
-![project-hopes](images/project-hopes?raw=true)
+![project-hopes](images/project-hopes.jpg?raw=true)
 
-![project-process](images/project-process?raw=true)
+![project-process](images/project-process.jpg?raw=true)
 
-![project-impact](images/project-impact?raw=true)
+![project-impact](images/project-impact.jpg?raw=true)
 
 We saw DWeb Camp as a space to build cross-discipline connections and lasting trust among participants with diverse backgrounds.
 Rather than segregating people of different disciplines by track, we want to projects to become a space that bring people together, where talents are respected equally and becomes opportunities for bidirectionally learning.
@@ -110,7 +110,7 @@ With open mindsets for personal growth in a safe environment, we hope the gather
 
 Using analogies of "weaving" projects that involve participants who traditionally would participate in different "tracks" at a conference, how can we "build bridges" through more holistic projects that explores certain topics, with different types of sessions that could span different spaces over many days?
 
-![project-questions](images/project-questions?raw=true)
+![project-questions](images/project-questions.jpg?raw=true)
 
 We wrapped up this session with a couple standing questions to be addressed the coming week, but with a common vision of how we want projects to be.
 
