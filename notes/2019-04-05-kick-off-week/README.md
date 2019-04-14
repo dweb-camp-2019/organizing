@@ -58,7 +58,7 @@ And what we do NOT want DWeb Camp to be.
 
 ![feelings-negative](images/feelings-negative.jpg?raw=true)
 
-After grouping related feelings and sharing thoughts, we wrote potential candidates for first principles, grouped and voted for them, then co-drafted our long-form of our first principles.
+After grouping related feelings and sharing thoughts, we wrote potential candidates for first principles, grouped and voted for them, then co-drafted our long-form of our _Five Pillars_.
 
 ![first-principles](images/first-principles.jpg?raw=true)
 
@@ -101,7 +101,7 @@ We will ask these groups to nominate the 10+ Global Fellows we can support, focu
 Global Fellows can become the bridges between the decentralized protocol builders and the global users.
 We also spoke a lot about building _meaningful engagement_ for the Global Fellows who attend, and how to move to a culture that values diverse skill sets and perspectives beyond the knowledge of technology.
 
-Building upon the process employed at the Decentralized Web Summit 2018, we went through a list of 300+ invitees compiled by various contributors last year, next our 2019 organizers added to that list, with the goal to invite individuals who can help foster the inclusive space that we want.
+Building upon the process employed at the Decentralized Web Summit 2018, we went through a list of 300+ invitees compiled by various contributors last year; next our 2019 organizers added to that list, with the goal to invite individuals who can help foster the inclusive space that we want.
 We are engaging in an ongoing process to come up with a list of individuals to whom we will  reach out to participate at Camp 2019.
 
 This post captures only part of the discussions that led to the drafting and outcomes of our _Camp Pillars_; you can look at our [current draft](https://github.com/dweb-camp-2019/communication/issues/7) for details and add comments.
@@ -130,9 +130,9 @@ We wrapped up this session with a couple standing questions to be addressed the 
 
 In 2016, DWeb Summit involved mostly builders of technologies. 
 In 2018, participants represented multiple disciplines and efforts were made to broaden gender, ethnic and geographic diversity.
-In organizing the third event, our first Camp, we hope to more deeply explore who is represented and create more meaningful representations by curating for truly inclusive spaces.
+In organizing the third event, our first Camp, we hope to more deeply explore who is represented and create more meaningful representations by thoughtful curation, supportive structures like support circles, and encouraging multi-disciplinary projects that span many groups.
 With increased emphasis on decentralized physical infrastructures, we bring whole new discussion threads about infrastructural governance and "below-IP" projects and protocols that have established communities in the Global South.
-We are transitioning to open planning processes and exploring use of open source tools, drawing inspirations from events large and small from ScuttleCamp and Our Networks to Chaos Computer Camp and Burning Man.
+We are transitioning to open planning processes and exploring use of open source tools, drawing inspiration from events large and small from ScuttleCamp and Our Networks to Chaos Communication Camp and Burning Man.
 We are also very excited for this gathering to take place at a venue with very aligned aspirations, and will allow us to connect with decentralized processes of nature and defocus our primarily digital experiences.
 
 We hope to document a large part of the planning process on [our GitHub](https://github.com/dweb-camp-2019/), in hopes to transition into a volunteer-run event and become replicable in other places around the world, collectively under the DWeb brand if they choose.
