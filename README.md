@@ -26,6 +26,12 @@ If you are as excited about Camp as we are and want to share ideas or start disc
 
 If you prefer other ways to contact us, you can also fill this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSe4gYQH6dBjTntt0IAgEh0z3tHKnfufHbBanf-SoDpnB73b5w/viewform) or email `dwebcamp [at] archive.org`.
 
+## Open Calls
+
+These are public video calls for Q&A about any aspect of the conference. Join us at one of these hours to ask questions about projects, logistics, or any question you may have about DWeb Camp 2019.
+
+_Schedule TBA_
+
 ## Timeline
 
 | Event     |                                                               |
