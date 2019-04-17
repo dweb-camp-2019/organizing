@@ -30,7 +30,10 @@ If you prefer other ways to contact us, you can also fill this [Google Form](htt
 
 These are public video calls for Q&A about any aspect of the conference. Join us at one of these hours to ask questions about projects, logistics, or any question you may have about DWeb Camp 2019.
 
-_Schedule TBA_
+| Time (in PST)   |                              |
+|:----------------|:-----------------------------|
+|`Apr 25 10:00 am`| https://meet.jit.si/dwebcamp |
+|`May 09 10:00 am`| https://meet.jit.si/dwebcamp |
 
 ## Timeline
 
