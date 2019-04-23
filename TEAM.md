@@ -18,10 +18,10 @@ Organizing Team
 | Safety Director | Matt Siegel | |
 | Logistics/Event Producer | Ben Hanna/Joanna Nastos | |
 | Registration Coordinator | Joanna Nastos | |
-| Production Assistant | TBD | |
-| Writer/Marketing Contractor | TBD | |
+| Assistant Producer | Mai Sutton | |
+| Writer/Marketing Contractor | Mai Sutton | |
 | Creative Coordinators | Andi Wong & Pamela Pascual | |
-| Global Fellows & Travel Stipend Coordinator | Volunteer needed | |
+| Global Fellows & Travel Stipend Coordinator | Mai Sutton | |
 | Lead Facilitator/Group Facilitation | TBD | |
 | DJ | TBD | |
 | EMT/Nurse (2) | TBD | |
