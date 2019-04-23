@@ -19,7 +19,7 @@ Organizing Team
 | Logistics/Event Producer | Ben Hanna/Joanna Nastos | |
 | Registration Coordinator | Joanna Nastos | |
 | Associate Producer | Mai Sutton | |
-| Writer/Marketing Contractor | TBD | |
+| Writer/Marketing Contractor | Mai Sutton | |
 | Creative Coordinators | Andi Wong & Pamela Pascual | |
 | Global Fellows & Travel Stipend Coordinator | Mai Sutton | |
 | Lead Facilitator/Group Facilitation | TBD | |
