@@ -10,6 +10,10 @@ Since 2016, we’ve been calling this the _Decentralized Web_ (DWeb for short) a
 This is the repository for the organizing of **DWeb Camp** from **July 18-21, 2019**.
 Please see our [event announcement on the Internet Archive blog](https://blog.archive.org/2019/03/24/coming-this-summer-the-first-dweb-camp/) and [FAQ](FAQ.md) for details.
 
+## Register
+
+See the [DWeb Camp website](https://dwebcamp.org) for event and registration details. This event has a [Code of Conduct](https://dwebcamp.org/conduct/).
+
 ## Get Involved
 
 The Internet Archive wants to invite you to co-organize DWeb Camp together!
