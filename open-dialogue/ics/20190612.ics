@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VEVENT
+DESCRIPTION:Our Open Dialogue calls are a space for you to ask us logistical questions, bounce your project ideas off of us (and each other!), and maybe even find other collaborators to work on a project. See details at https://dwebcamp.org
+DTSTAMP:20190425T000000
+DTSTART;TZID=America/Los_Angeles:20190612T110000
+DTEND;TZID=America/Los_Angeles:20190612T120000
+LOCATION:https://meet.jit.si/dwebcamp
+SUMMARY:DWeb Camp 2019 Open Dialogue
+END:VEVENT
+END:VCALENDAR
