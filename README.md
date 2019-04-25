@@ -28,17 +28,17 @@ If you prefer other ways to contact us, you can also fill this [Google Form](htt
 
 ## Open Dialogue Calls
 
-These are one hour-long public video calls for Q&A about any aspect of the conference. Join us at one of these hours to ask questions about projects, logistics, or any question you may have about DWeb Camp 2019.
+These are one hour-long public video calls for you to ask us logistical questions, bounce your project ideas off of us (and each other!), and maybe even find other collaborators to work on a project.
 
-| Time (in PST)   |                              |
-|:----------------|:-----------------------------|
-|`Wed May 01 11:00 AM`| https://meet.jit.si/dwebcamp |
-|`Wed May 15 06:00 PM`| https://meet.jit.si/dwebcamp |
-|`Wed May 29 01:00 PM`| https://meet.jit.si/dwebcamp |
-|`Wed Jun 12 11:00 AM`| https://meet.jit.si/dwebcamp |
-|`Wed Jun 26 06:00 PM`| https://meet.jit.si/dwebcamp |
-|`Wed Jul 03 11:00 AM`| https://meet.jit.si/dwebcamp |
-|`Wed Jul 10 06:00 PM`| https://meet.jit.si/dwebcamp |
+| Time (in PST)       | Location                     | Moderator  |
+|:--------------------|:-----------------------------|:-----------|
+|`Wed May 01 11:00 AM`| https://meet.jit.si/dwebcamp | [@maisutton](https://github.com/maisutton) |
+|`Wed May 15 06:00 PM`| https://meet.jit.si/dwebcamp | [@maisutton](https://github.com/maisutton) |
+|`Wed May 29 01:00 PM`| https://meet.jit.si/dwebcamp | [@maisutton](https://github.com/maisutton) |
+|`Wed Jun 12 11:00 AM`| https://meet.jit.si/dwebcamp |            |
+|`Wed Jun 26 06:00 PM`| https://meet.jit.si/dwebcamp |            |
+|`Wed Jul 03 11:00 AM`| https://meet.jit.si/dwebcamp |            |
+|`Wed Jul 10 06:00 PM`| https://meet.jit.si/dwebcamp |            |
 
 ## Timeline
 
