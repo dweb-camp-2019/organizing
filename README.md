@@ -26,14 +26,19 @@ If you are as excited about Camp as we are and want to share ideas or start disc
 
 If you prefer other ways to contact us, you can also fill this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSe4gYQH6dBjTntt0IAgEh0z3tHKnfufHbBanf-SoDpnB73b5w/viewform) or email `dwebcamp [at] archive.org`.
 
-## Open Calls
+## Open Dialogue Calls
 
 These are one hour-long public video calls for Q&A about any aspect of the conference. Join us at one of these hours to ask questions about projects, logistics, or any question you may have about DWeb Camp 2019.
 
 | Time (in PST)   |                              |
 |:----------------|:-----------------------------|
-|`Apr 25 10:00 am`| https://meet.jit.si/dwebcamp |
-|`May 09 10:00 am`| https://meet.jit.si/dwebcamp |
+|`Wed May 01 11:00 AM`| https://meet.jit.si/dwebcamp |
+|`Wed May 15 06:00 PM`| https://meet.jit.si/dwebcamp |
+|`Wed May 29 01:00 PM`| https://meet.jit.si/dwebcamp |
+|`Wed Jun 12 11:00 AM`| https://meet.jit.si/dwebcamp |
+|`Wed Jun 26 06:00 PM`| https://meet.jit.si/dwebcamp |
+|`Wed Jul 03 11:00 AM`| https://meet.jit.si/dwebcamp |
+|`Wed Jul 10 06:00 PM`| https://meet.jit.si/dwebcamp |
 
 ## Timeline
 
