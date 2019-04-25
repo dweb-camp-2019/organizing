@@ -30,15 +30,15 @@ If you prefer other ways to contact us, you can also fill this [Google Form](htt
 
 These are one hour-long public video calls for you to ask us logistical questions, bounce your project ideas off of us (and each other!), and maybe even find other collaborators to work on a project.
 
-| Time (in PST)       | Location                     | Moderator                                  | Calendar (.ics)                                       |
-|:--------------------|:-----------------------------|:-------------------------------------------|:------------------------------------------------------|
-|`Wed May 01 11:00 AM`| https://meet.jit.si/dwebcamp | [@maisutton](https://github.com/maisutton) | [:calendar: download](open-dialogue/ics/20190501.ics) |
-|`Wed May 15 06:00 PM`| https://meet.jit.si/dwebcamp | [@maisutton](https://github.com/maisutton) | [:calendar: download](open-dialogue/ics/20190515.ics) |
-|`Wed May 29 01:00 PM`| https://meet.jit.si/dwebcamp | [@maisutton](https://github.com/maisutton) | [:calendar: download](open-dialogue/ics/20190529.ics) |
-|`Wed Jun 12 11:00 AM`| https://meet.jit.si/dwebcamp | [@maisutton](https://github.com/maisutton) | [:calendar: download](open-dialogue/ics/20190612.ics) |
-|`Wed Jun 26 06:00 PM`| https://meet.jit.si/dwebcamp | [@maisutton](https://github.com/maisutton) | [:calendar: download](open-dialogue/ics/20190626.ics) |
-|`Wed Jul 03 11:00 AM`| https://meet.jit.si/dwebcamp | [@maisutton](https://github.com/maisutton) | [:calendar: download](open-dialogue/ics/20190703.ics) |
-|`Wed Jul 10 06:00 PM`| https://meet.jit.si/dwebcamp | [@maisutton](https://github.com/maisutton) | [:calendar: download](open-dialogue/ics/20190710.ics) |
+| Time (in PST)       | Location                     | Moderator                                  | Calendar (.ics)                                                |
+|:--------------------|:-----------------------------|:-------------------------------------------|:---------------------------------------------------------------|
+|`Wed May 01 11:00 AM`| https://meet.jit.si/dwebcamp | [@maisutton](https://github.com/maisutton) | [:calendar: download](open-dialogue/ics/20190501.ics?raw=true) |
+|`Wed May 15 06:00 PM`| https://meet.jit.si/dwebcamp | [@maisutton](https://github.com/maisutton) | [:calendar: download](open-dialogue/ics/20190515.ics?raw=true) |
+|`Wed May 29 01:00 PM`| https://meet.jit.si/dwebcamp | [@maisutton](https://github.com/maisutton) | [:calendar: download](open-dialogue/ics/20190529.ics?raw=true) |
+|`Wed Jun 12 11:00 AM`| https://meet.jit.si/dwebcamp | [@maisutton](https://github.com/maisutton) | [:calendar: download](open-dialogue/ics/20190612.ics?raw=true) |
+|`Wed Jun 26 06:00 PM`| https://meet.jit.si/dwebcamp | [@maisutton](https://github.com/maisutton) | [:calendar: download](open-dialogue/ics/20190626.ics?raw=true) |
+|`Wed Jul 03 11:00 AM`| https://meet.jit.si/dwebcamp | [@maisutton](https://github.com/maisutton) | [:calendar: download](open-dialogue/ics/20190703.ics?raw=true) |
+|`Wed Jul 10 06:00 PM`| https://meet.jit.si/dwebcamp | [@maisutton](https://github.com/maisutton) | [:calendar: download](open-dialogue/ics/20190710.ics?raw=true) |
 
 ## Timeline
 
