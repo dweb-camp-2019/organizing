@@ -55,11 +55,11 @@ These are one hour-long public video calls for you to ask us logistical question
 | Milestones |                                                                               |
 |:-----------|:------------------------------------------------------------------------------|
 | Jul 8      | Meshnet core nodes and Internet connectivity in place                         |
-| Jul 1      | power infrastructure in place                                                 |
+| Jul 1      | Power infrastructure in place                                                 |
 | Jun 8      | Communication infrastructure test at _The Farm_                               |
 | May 2-3    | Programming meetings                                                          |
 | Apr 28     | _The Farm_ site visit                                                         |
-| Apr 15     | Website with Camp details published that includes RFP and ticket sales        |
+| Apr 15     | [Website](https://dwebcamp.org) with Camp details published that includes RFP and ticket sales |
 | Apr 3-5    | Kick-off meetings at the Internet Archive ([notes](notes/2019-04-05-kick-off-week/README.md#organizer-planning--the-internet-archive)) |
 | Mar 31     | _The Farm_ overnight site visit ([notes](notes/2019-04-05-kick-off-week/README.md#site-visit--the-farm)) |
 | Mar 25     | Camp announcement on Archive blog and preliminary details published to GitHub |
