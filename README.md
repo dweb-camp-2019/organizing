@@ -26,7 +26,7 @@ If you are as excited about Camp as we are and want to share ideas or start disc
 |:------------------|:------------------------|:------------------------|:---------------------|
 | :camping: General | [dweb-camp-2019/organizing](https://github.com/dweb-camp-2019/organizing) | [#decentralizedweb-general:matrix.org](https://riot.im/app/#/room/#decentralizedweb-general:matrix.org) | |
 | :satellite: Meshnet | [dweb-camp-2019/meshnet](https://github.com/dweb-camp-2019/meshnet) | [#dweb-camp-2019-mesh:matrix.org](https://riot.im/app/#/room/#dweb-camp-2019-mesh:matrix.org) | `freenode/#dweb-camp-2019-mesh` |
-| :computer: Applications | [dweb-camp-2019/applications](https://github.com/dweb-camp-2019/applications) | [#dweb-camp-2019-apps:matrix.org](https://riot.im/app/#/room/#dweb-camp-2019-apps:matrix.org) | `freenode/#dweb-camp-2019-apps` |
+| :computer: Projects | [dweb-camp-2019/projects](https://github.com/dweb-camp-2019/projects) | [#dweb-camp-2019-projects:matrix.org](https://riot.im/app/#/room/#dweb-camp-2019-projects:matrix.org) | `freenode/#dweb-camp-2019-apps` |
 
 If you prefer other ways to contact us, you can also fill this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSe4gYQH6dBjTntt0IAgEh0z3tHKnfufHbBanf-SoDpnB73b5w/viewform) or email `dwebcamp [at] archive.org`.
 
