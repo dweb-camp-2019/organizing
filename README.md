@@ -58,6 +58,7 @@ These are one hour-long public video calls for you to ask us logistical question
 |:-----------|:------------------------------------------------------------------------------|
 | Jul 8      | Meshnet core nodes and Internet connectivity in place                         |
 | Jul 1      | Power infrastructure in place                                                 |
+| Jun 26     | Project prototyping day at _Internet Archive_                                 |
 | Jun 8      | Communication infrastructure test at _The Farm_                               |
 | May 2-3    | Programming meetings                                                          |
 | Apr 28     | _The Farm_ site visit                                                         |
