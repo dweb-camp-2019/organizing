@@ -18,19 +18,20 @@ See the [DWeb Camp website](https://dwebcamp.org) for event and registration det
 
 ## Get Involved
 
-The Internet Archive wants to invite you to co-organize DWeb Camp together!
-There are many ways to help build DWeb Camp depending on how much you'd like to get involved.
-The key roles necessary to pull this event together are listed on our [Organizing Team](TEAM.md) page, please write to `dwebcamp [at] archive.org` if you'd like to inquire about one of these positions.
+![help-wanted](https://img.shields.io/badge/help%20wanted-008672.svg) The Internet Archive wants to invite you to build DWeb Camp together!
 
-If you are as excited about Camp as we are and want to share ideas or start discussions, visit the following GitHub repositories and chat rooms, where you are invited to post Issues, send Pull Requests, and start collaborating with peers for potential projects.
+| Roles                                    | Description                                                                    |
+|:-----------------------------------------|:-------------------------------------------------------------------------------|
+| [Space Steward](roles/space-stewards.md) | Help guide and support activities in specific venues around the camp           |
+| [Weaver](roles/weavers.md)               | Facilitate a _Home Group_ of a group of ~10 people to regularly meet at a time |
+
+For other ways you would like to get involved, visit the following GitHub repositories and chat rooms, or write to the [Organizing Team](TEAM.md) at `dwebcamp [at] archive.org` or via this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSe4gYQH6dBjTntt0IAgEh0z3tHKnfufHbBanf-SoDpnB73b5w/viewform).
 
 |                   | :spiral_notepad: GitHub | :speech_balloon: Matrix | :speech_balloon: IRC |
 |:------------------|:------------------------|:------------------------|:---------------------|
 | :camping: General | [dweb-camp-2019/organizing](https://github.com/dweb-camp-2019/organizing) | [#decentralizedweb-general:matrix.org](https://riot.im/app/#/room/#decentralizedweb-general:matrix.org) | |
 | :satellite: Meshnet | [dweb-camp-2019/meshnet](https://github.com/dweb-camp-2019/meshnet) | [#dweb-camp-2019-mesh:matrix.org](https://riot.im/app/#/room/#dweb-camp-2019-mesh:matrix.org) | `freenode/#dweb-camp-2019-mesh` |
 | :computer: Projects | [dweb-camp-2019/projects](https://github.com/dweb-camp-2019/projects) | [#dweb-camp-2019-projects:matrix.org](https://riot.im/app/#/room/#dweb-camp-2019-projects:matrix.org) | `freenode/#dweb-camp-2019-apps` |
-
-If you prefer other ways to contact us, you can also fill this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSe4gYQH6dBjTntt0IAgEh0z3tHKnfufHbBanf-SoDpnB73b5w/viewform) or email `dwebcamp [at] archive.org`.
 
 ## Open Dialogue Calls
 
