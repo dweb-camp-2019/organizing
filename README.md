@@ -8,17 +8,27 @@ DWeb Camp 2019 Organizing
 Since 2016, we’ve been calling this the _Decentralized Web_ (DWeb for short) and now the Internet Archive is inviting everyone who wants to imagine and co-create that better Web to join us this summer at one of the most beautiful spots on Earth.
 
 This is the repository for the organizing of **DWeb Camp** from **July 18-21, 2019**.
-Please see our [event announcement on the Internet Archive blog](https://blog.archive.org/2019/03/24/coming-this-summer-the-first-dweb-camp/) and [FAQ](FAQ.md) for details.
+Please see our [event announcement](https://blog.archive.org/2019/03/24/coming-this-summer-the-first-dweb-camp/) and  [hacking possibilities](https://blog.archive.org/2019/05/26/spark-new-ideas-technologies-at-dweb-camp-2019/) on the Internet Archive blog.
 
-Here's more info on the hacking possibilities at camp: (https://blog.archive.org/2019/05/26/spark-new-ideas-technologies-at-dweb-camp-2019/)
+## Get There
 
-## Register
+![july-18-21](https://img.shields.io/badge/july%2018-21-008672.svg)
 
 See the [DWeb Camp website](https://dwebcamp.org) for event and registration details. This event has a [Code of Conduct](https://dwebcamp.org/conduct/).
 
+After you have registered, here are some handy pages for coordinating logistics:
+
+- [Rideshare page](https://docs.google.com/spreadsheets/d/1WjZd33F5no2AQ8BAbMDMoQMv8eFAsp8-SNNR3Z_M-Zc/edit?ts=5cfff040#gid=676404853) for people looking to offer/need rides to and from Camp. If you have 3 people in your car, parking is free. Look for the tabs at the bottom for each day.
+
+  If you'd be interested in paying for a bus that picks up at Oakland BART and the Internet Archive (300 Funston Ave, SF) and takes you to Camp and back.  The roundtrip fare is approximately $50.
+
+- [Stay at Internet Archive](https://github.com/dweb-camp-2019/organizing/issues/73/) on `Wednesday, July 17` (the day before Camp) and `Sunday, July 21` (the day after Camp), fill out this [form](https://fs26.formsite.com/ArchiveHR/IA_sleepover_2019/index.html).
+
 ## Get Involved
 
-![help-wanted](https://img.shields.io/badge/help%20wanted-008672.svg) The Internet Archive wants to invite you to build DWeb Camp together!
+![help-wanted](https://img.shields.io/badge/help%20wanted-008672.svg)
+
+The Internet Archive wants to invite you to build DWeb Camp together!
 
 | Roles                                    | Description                                                                    |
 |:-----------------------------------------|:-------------------------------------------------------------------------------|
