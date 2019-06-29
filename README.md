@@ -22,7 +22,7 @@ After you have registered, here are some handy pages for coordinating logistics:
 
   If you'd be interested in paying for a bus that picks up at Oakland BART and the Internet Archive (300 Funston Ave, SF) and takes you to Camp and back.  The roundtrip fare is approximately $50.
 
-- [Stay at Internet Archive](https://github.com/dweb-camp-2019/organizing/issues/73/) on `Wednesday, July 17` (the day before Camp) and `Sunday, July 21` (the day after Camp), fill out this [form](https://fs26.formsite.com/ArchiveHR/IA_sleepover_2019/index.html).
+- [Stay at Internet Archive](https://github.com/dweb-camp-2019/organizing/issues/73/) on `Wednesday, July 17` (the day before Camp) and `Sunday, July 21` (the night after Camp), fill out this [form](https://fs26.formsite.com/ArchiveHR/IA_sleepover_2019/index.html).
 
 ## Get Involved
 
