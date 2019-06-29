@@ -33,6 +33,7 @@ The Internet Archive wants to invite you to build DWeb Camp together!
 | Roles                                    | Description                                                                    |
 |:-----------------------------------------|:-------------------------------------------------------------------------------|
 | [Space Steward](roles/space-stewards.md) | Help guide and support activities in specific venues around the camp           |
+| [Network Steward](roles/network-stewards.md) | Help other campers learn about and tinker with the communication network |
 | [Weaver](roles/weavers.md)               | Facilitate a _Home Group_ of a group of ~10 people to regularly meet at a time |
 
 For other ways you would like to get involved, visit the following GitHub repositories and chat rooms, or write to the [Organizing Team](TEAM.md) at `dwebcamp [at] archive.org` or via this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSe4gYQH6dBjTntt0IAgEh0z3tHKnfufHbBanf-SoDpnB73b5w/viewform).
