@@ -153,17 +153,17 @@ _Alternative to current process_
 
 For money going out to support individuals (e.g. Global Fellowships), these are the information that Gatherings for Good Accounting needs to gather before sending money:
 
->The name of the person
->Their address as listed with their bank (for wires)
->Their address (if a check is issued)
+>The name of the person  
+>Their address as listed with their bank (for wires)  
+>Their address (if a check is issued)  
 >A [W-9 form](https://github.com/dweb-camp-2019/organizing/files/3318744/Blank.W-9.pdf) for US residents
-
->Also bank info:
->Name of Bank
->Branch name
->Address of Branch
->Swift code
->IBAN account #
+>
+>Bank info:  
+>- Name of Bank  
+>- Branch name  
+>- Address of Branch  
+>- Swift code  
+>- IBAN account #  
 
 ## Invitation Letter for Travel Visa Applications
 
@@ -171,20 +171,17 @@ _Alternative to manual process_
 
 We need the following information about each applicant in order to issue an invitation letter:
 
->First name:
->Surname:
->Date of birth:
->Passport number:
->Expiry date:
->Nationality:
+>First name:  
+>Surname:  
+>Date of birth:  
+>Passport number:  
+>Expiry date:  
+>Nationality:  
 >
->**Short description of why applicant is invited:**
->
->**Short description of financial sponsor:**
->
->**Short description of accommodation arrangement (if not at Internet Archive):**
->
->Is this for a travel visa application?
+>Short description of why applicant is invited:  
+>Short description of financial sponsor:  
+>Short description of accommodation arrangement (if not at Internet Archive):  
+>Is this for a travel visa application?  
 
 Personal information is provided over email exchange, occasionally requiring clarifications and corrections, and each time we change something we modify a word document and print as PDF with Internet Archive letterhead. We should fork the [ournetworks/2019 travel visa generation tool](https://github.com/ournetworks/2019/tree/master/visas) and modify the letter template, and adopt more secure practice than email to exchange the personal information with guidelines on deletion.
 
