@@ -1,3 +1,5 @@
+# ⚠️ PLEASE SEE THE [2022 Camp Site](https://gitlab.com/getdweb/dweb-camp-2022)!
+
 DWeb Camp 2019 Organizing
 =========================
 
